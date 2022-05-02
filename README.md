@@ -1,1 +1,1 @@
-functions nested loops
+My Read me for pointers arrays and strings
